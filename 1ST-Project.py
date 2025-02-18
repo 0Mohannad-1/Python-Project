@@ -96,6 +96,6 @@ while True:
         
         # Explicitly tell the user the password is weak
         print("Password Strength: Weak")
-        
+        #dasdasd
         # Suggest a stronger password
         print("Suggested Stronger Password:", generate_stronger_password())
