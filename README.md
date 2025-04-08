@@ -39,9 +39,9 @@ If the password doesn't meet the requirements, the program tells you what’s mi
    Password is missing some requirements. Please try again.
    - At least 2 uppercase letters
    - At least 2 lowercase letters
-   - At least 1 special character
-   - Password Strength: Weak
-   - Suggested Stronger Password: Mq7@dF#9kV1z
+   - At least 1 special character 
+          Password Strength: Weak
+          Suggested Stronger Password: Mq7@dF#9kV1z
 
 
 
