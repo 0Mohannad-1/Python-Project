@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+
 # 🔐 Password Strength Checker
 
 This is a simple Python project that allows users to check the strength of their passwords and receive suggestions for stronger alternatives. It ensures passwords meet essential security requirements and categorizes them as **Weak**, **Fair**, or **Strong** based on their length.
