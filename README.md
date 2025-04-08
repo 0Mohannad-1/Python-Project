@@ -26,7 +26,7 @@ If the password doesn't meet the requirements, the program tells you what’s mi
 - Provides detailed feedback
 - Generates strong password suggestions
 
-- Example Output:
+## 📸 Example Output
 -    Your password must meet the following requirements:
 -    At least 2 uppercase letters
 -    At least 2 lowercase letters
