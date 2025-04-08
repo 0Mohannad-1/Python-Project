@@ -40,8 +40,9 @@ Password is missing some requirements. Please try again.
 - At least 2 uppercase letters
 - At least 2 lowercase letters
 - At least 1 special character
-Password Strength: Weak
-Suggested Stronger Password: Mq7@dF#9kV1z
+
+     Password Strength: Weak
+     Suggested Stronger Password: Mq7@dF#9kV1z
           
           
 
