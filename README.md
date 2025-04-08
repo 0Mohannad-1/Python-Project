@@ -49,6 +49,8 @@ Password is missing some requirements. Please try again.
      Password Strength: Weak
 
      Suggested Stronger Password: Mq7@dF#9kV1z
+  
+## If you have any suggestions type it please
           
           
 
